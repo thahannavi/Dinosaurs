@@ -1,2 +1,2 @@
 # Dinosaurs
-information about dinosaurs
+information about dinosaurs.
